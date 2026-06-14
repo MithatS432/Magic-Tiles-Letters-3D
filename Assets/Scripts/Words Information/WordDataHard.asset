@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bd677f393504734dbebe929d57bf330, type: 3}
+  m_Name: WordDataHard
+  m_EditorClassIdentifier: 
+  words:
+  - golden
+  - orange
+  - yellow
+  - purple
+  - "indigo\t"
+  - garden
+  - season
+  - simple
+  - smiley
+  - people
+  - animal
+  - candle
+  - office
+  - coffee
+  - camera
+  - flower
+  - family
+  - bubble
+  - bamboo
+  - banana
+  - garlic
