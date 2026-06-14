@@ -2,7 +2,7 @@
 
 **A 3D mobile word puzzle game** — drag letter tiles to spell hidden words.
 
-![Unity](https://img.shields.io/badge/Unity-2022.3+-black?logo=unity)
+![Unity](https://img.shields.io/badge/Unity-6000.0.67f1-black?logo=unity)
 ![Platform](https://img.shields.io/badge/Platform-Android-green)
 ![Status](https://img.shields.io/badge/Status-Core%20Loop%20Complete-brightgreen)
 
@@ -115,7 +115,7 @@ Skills are rewarded on level completion (max 3 per type).
 
 ## 🛠️ Tech Stack
 
-- Engine: Unity (3D, UI-driven gameplay)  
+- Engine: Unity **6000.0.67f1**  
 - Language: C#  
 - UI: Unity UI (uGUI) + TextMeshPro  
 - Architecture: Modular + ScriptableObject-based  
@@ -134,7 +134,7 @@ Skills are rewarded on level completion (max 3 per type).
 <p align="center">
   <img src="Assets/Screenshots/4.png" width="160"/>
   <img src="Assets/Screenshots/5.png" width="160"/>
-</p> 
+</p>
 
 ---
 
