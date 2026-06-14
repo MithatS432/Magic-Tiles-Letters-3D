@@ -141,10 +141,12 @@ Skills are rewarded on level completion (max 3 per type).
 ## 🎬 Gameplay Preview
 
 <p align="center">
-  <video width="360" controls>
-    <source src="Assets/GameplayGif/Gameplay.mp4" type="video/mp4">
-  </video>
+  <a href="Assets/GameplayGif/Gameplay.mp4">
+    <img src="Assets/Screenshots/1.png" width="360"/>
+  </a>
 </p>
+
+> ▶️ Click to watch gameplay video
 
 ---
 
